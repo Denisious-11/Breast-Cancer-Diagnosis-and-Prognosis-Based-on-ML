@@ -1,0 +1,13 @@
+In the context of breast cancer:
+
+Recurrent (R): This refers to cases where the cancer has returned or recurred after an initial period of treatment and being declared disease-free. Recurrence indicates that cancer cells have regrown or spread, leading to a return of the disease.
+
+Malayalam: ????????? (Punaravatanam)
+
+Non-recurrent (N): This indicates cases where the cancer has not returned after the initial treatment, and the patient remains disease-free.
+
+Malayalam: ????????????? (Punaravatanamilla)
+
+
+################
+The second field seems to be related to time, indicating the recurrence time if the outcome is recurrent (field 2 = R) or disease-free time if the outcome is non-recurrent (field 2 = N).
